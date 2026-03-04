@@ -45,7 +45,7 @@ body {
 
 p {
     font-weight: bold;
-    font-size: 25;
+    font-size: large;
     font-family: sans-serif;
     color: aliceblue;
     position: relative;
@@ -58,7 +58,7 @@ span {
 }
 
 button {
-    background-color: yellow;
+    background-color: gray;
     padding: 10px;
     border-radius: 50px;
     backdrop-filter: blur(10px);
@@ -70,6 +70,7 @@ button {
     bottom: 0;
 
 }
+
 
 
 
